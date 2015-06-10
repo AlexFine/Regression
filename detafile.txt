@@ -1,0 +1,8 @@
+# (number of minutes during track season) (number of seconds during track season) (miles trained over summer) (number of minutes during xc season) (number of seconds during xc season)
+5 0 400 4 39
+4 56 110 5 06
+4 43 150 4 39
+4 46 340 4 40
+5 26 140 5 10
+4 26 180 4 49
+4 38 320 4 29
